@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: 3f944619c6a658a4ca3661ddc86bcf3d
+timeCreated: 1498704165
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TextoFalado_-_Baloes_0
+    21300002: TextoFalado_-_Baloes_1
+    21300004: TextoFalado_-_Baloes_2
+    21300006: TextoFalado_-_Baloes_3
+    21300008: TextoFalado_-_Baloes_4
+    21300010: TextoFalado_-_Baloes_5
+    21300012: TextoFalado_-_Baloes_6
+    21300014: TextoFalado_-_Baloes_7
+    21300016: TextoFalado_-_Baloes_8
+    21300018: TextoFalado_-_Baloes_9
+    21300020: TextoFalado_-_Baloes_10
+    21300022: TextoFalado_-_Baloes_11
+    21300024: TextoFalado_-_Baloes_12
+    21300026: TextoFalado_-_Baloes_13
+    21300028: TextoFalado_-_Baloes_14
+    21300030: TextoFalado_-_Baloes_15
+    21300032: TextoFalado_-_Baloes_16
+    21300034: TextoFalado_-_Baloes_17
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TextoFalado_-_Baloes_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 5538
+        width: 1996
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TextoFalado_-_Baloes_1
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 5707
+        width: 2033
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TextoFalado_-_Baloes_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 4764
+        width: 1470
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TextoFalado_-_Baloes_3
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 5071
+        width: 749
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TextoFalado_-_Baloes_4
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 4739
+        width: 2444
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TextoFalado_-_Baloes_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 3735
+        width: 3061
+        height: 869
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TextoFalado_-_Baloes_6
+      rect:
+        serializedVersion: 2
+        x: 3839
+        y: 3600
+        width: 1348
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TextoFalado_-_Baloes_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2802
+        width: 1897
+        height: 709
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TextoFalado_-_Baloes_8
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 3011
+        width: 2072
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TextoFalado_-_Baloes_9
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2105
+        width: 1961
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TextoFalado_-_Baloes_10
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 2182
+        width: 2407
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TextoFalado_-_Baloes_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1230
+        width: 1950
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TextoFalado_-_Baloes_12
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 1506
+        width: 1188
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TextoFalado_-_Baloes_13
+      rect:
+        serializedVersion: 2
+        x: 3698
+        y: 1417
+        width: 2286
+        height: 709
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TextoFalado_-_Baloes_14
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 671
+        width: 1955
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TextoFalado_-_Baloes_15
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 735
+        width: 1820
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TextoFalado_-_Baloes_16
+      rect:
+        serializedVersion: 2
+        x: 3993
+        y: 708
+        width: 2211
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TextoFalado_-_Baloes_17
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 121
+        width: 1609
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
